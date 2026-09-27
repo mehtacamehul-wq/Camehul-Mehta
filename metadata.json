@@ -1,0 +1,6 @@
+{
+  "name": "FinLibre — Global Finance Ebooks & AI Video Studio",
+  "description": "Global financial ebooks library with instant downloads, AI-powered multi-scene short film generation, high-fidelity TTS narration, and dynamic video editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
